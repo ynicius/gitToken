@@ -5,3 +5,4 @@ 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
 auteração-01
 
 essa linha foi modificada no ramo master
+auteracao 02 - essa linha foi modificada no ramo teste - bifuracacao 01
